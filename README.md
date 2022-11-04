@@ -18,6 +18,11 @@ https://gaeiki.github.io/alurabook/
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </span>
 
+## Breakpoints
+- smartphone (max-width: 1023px)
+- tablet (1024px - 1727px)
+- desktop (min-width: 1728px)
+
 ## Contact
 - 📧 gabueiki96@gmail.com
 - [<img width=15px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Gabriel Eiki Oshiro](https://www.linkedin.com/in/gabriel-eiki-oshiro-07b324b0/)
